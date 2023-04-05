@@ -1,0 +1,100 @@
+.login {
+    height: 100vh;
+}
+
+.login .title {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    padding: 50px;
+    color: #FFFFFF;
+}
+
+.login .content {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 42px;
+    padding: 48px 20px;
+    color: #FFFFFF;
+}
+
+.university-name {
+    padding: 50px;
+}
+
+.university-name h1 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    color: #8C8DE2;
+}
+
+.tab-right .text-login {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    color: #6DA9DB;
+}
+
+.tab-right .text-login h1 {
+    display: inline;
+    border-bottom: 4px solid #7E99DF;
+    transform: rotate(0.57deg);
+}
+
+.tab-right .form-login {
+    gap: 50px;
+}
+
+.tab-right .box {
+    margin-top: 0.5rem;
+}
+
+.tab-right .input {
+    border: 2px solid #ACACAC;
+    border-radius: 16px;
+    padding: 15px;
+}
+
+.tab-right .input.email {
+    margin-bottom: 43px;
+}
+
+.tab-right .input.password {
+    margin-bottom: 11px;
+}
+
+.tab-right .remember,
+.tab-right .remember .psw a {
+    color: #A09595;
+}
+
+.tab-right .remember input {
+    border: 2px solid #AAA6A6;
+    border-radius: 10px;
+    width: 19px;
+    height: 19px;
+    margin-right: 6px;
+}
+
+.tab-right .remember .psw a {
+    text-decoration: underline;
+}
+
+.tab-right .bottom {
+    margin-top: 100px;
+    border: none;
+    border-color: none;
+    background: #799DDE;
+    border-radius: 16px;
+    padding: 13px;
+    color: #FFFFFF;
+    font-size: 25px;
+}

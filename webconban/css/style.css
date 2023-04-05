@@ -1,0 +1,7 @@
+.logo-content{
+    background: linear-gradient(180deg, #55BFD6 0%, #A278E7 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
